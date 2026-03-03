@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "brand": "Chevrolet",
+    "model": "Corvette C4",
+    "year": 1987,
+    "whp": "260",
+    "weight": "1469 kg",
+    "country": "USA",
+    "class": "Classic Deportive",
+    "type": "my",
+    "img": "/corvette.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Pontiac",
+    "model": "Firebird",
+    "year": 1967,
+    "whp": "300",
+    "weight": "1720 kg",
+    "country": "USA",
+    "class": "Classic Muscle",
+    "type": "my",
+    "img": "/pontiac.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Chevrolet",
+    "model": "Tahoe",
+    "year": 1999,
+    "whp": "370",
+    "weight": "2000 kg",
+    "country": "USA",
+    "class": "Classic USV",
+    "type": "my",
+    "img": "/tahoeLs.jpeg"
+  },
+  {
+    "id": 4,
+    "brand": "Chevrolet",
+    "model": "Tahoe",
+    "year": 1998,
+    "whp": "200",
+    "weight": "2400 kg",
+    "country": "USA",
+    "class": "4X4",
+    "type": "my",
+    "img": "/tahoe.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Chevrolet",
+    "model": "Mate",
+    "year": 1955,
+    "whp": "+1000",
+    "weight": "5000 kg",
+    "country": "USA",
+    "class": "Classic Muscle",
+    "type": "my",
+    "img": "/mate.JPG"
+  },
+  {
+    "id": 6,
+    "brand": "Chevrolet",
+    "model": "Camaro SS",
+    "year": 2011,
+    "whp": "400",
+    "weight": "1700 kg",
+    "country": "USA",
+    "class": "Modern Muscle",
+    "type": "my",
+    "img": "/camaroSS.jpeg"
+  },
+  {
+    "id": 7,
+    "brand": "Shelby",
+    "model": "GT500",
+    "year": 2022,
+    "whp": "760",
+    "weight": "1900 kg",
+    "country": "USA",
+    "class": "Modern Muscle",
+    "type": "dream",
+    "img": "https://platform.cstatic-images.com/in/v2/stock_photos/6fc391c8-2e8b-4854-b84c-3c94c431fb19/ca5e1b68-4c6b-403b-b95a-a77a6f529da5.png"
+  },
+  {
+    "id": 8,
+    "brand": "Chevrolet",
+    "model": "Corvette",
+    "year": 2010,
+    "whp": "638 ",
+    "weight": "1596 kg",
+    "country": "USA",
+    "class": "Modern Muscle",
+    "type": "dream",
+    "img": "https://lapmeta.com/storage/vi-images/0gRxrsrJsF.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Cadilac",
+    "model": "Escalade",
+    "year": 2025,
+    "whp": "420",
+    "weight": "3000 kg",
+    "country": "USA",
+    "class": "USV",
+    "type": "dream",
+    "img": "https://mystrongad.com/cadillac/2025/Escalade/2025-cadillac-escalade-black.webp"
+  }
+]
